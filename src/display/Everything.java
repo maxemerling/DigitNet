@@ -21,7 +21,7 @@ public class Everything {
 	
 	public static void main(String[] args) throws IOException {
 		
-		Network net = new Network(784, 80, 40, 10);
+	Network net = new Network(784, 80, 40, 10);
         NetTrainer2 trainer = new NetTrainer2(net);
         TrainSet set = trainer.createTrainSet(1, 5000);
         
