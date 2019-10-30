@@ -1,5 +1,5 @@
 # DigitNet
-This project conststs of a fully-connected feed-forward neural network, coded from scratch, along with all of its associated algorithms, in Java.
+This project conststs of a framework for generating fully-connected feed-forward neural networks. I coded these from scratch, along with all of its associated algorithms, in Java. The project includes test cases of these networks on the mnist dataset.
 
 ### Testing out a previously-trained network
 To test out a previously-trained network, run the class "display/DrawTester.java"
